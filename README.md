@@ -1,36 +1,46 @@
-<h1 align="center">Hi 👋, I'm Yatin Bhovi</h1>
-<h3 align="center">A passionate Full Stack Developer & Blockchain Enthusiast from India 🇮🇳</h3>
+<h1 align="center">👋 Hello World, I'm Yatin Bhovi</h1>
 
-- 🔭 I’m currently working on **DonorShield** – a blockchain-based donation tracker  
-- 🌱 I’m currently learning **Next.js**, **Solidity**, and **DevOps**  
-- 👯 I’m looking to collaborate on **open source web & ML projects**  
-- 💬 Ask me about **React, MongoDB, Smart Contracts, and GitHub Actions**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINK/)  
-- ⚡ Fun fact: I love clean UIs and hackathons 🤓  
+<p align="center"><em>Full Stack Developer | Blockchain Explorer | Competitive Programmer</em></p>
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🚀 About Me
+
+- 🔭 Currently building **DonorShield** – a blockchain-based donation tracking platform
+- 💡 Exploring the intersection of **Web3** and **Real-World Applications**
+- 🧠 Constantly learning: **Next.js, Solidity, DevOps, and Clean Architecture**
+- 👨‍💻 Passionate about developing scalable backend systems and intuitive UIs
+- 💬 Ask me about anything related to **MERN Stack**, **Smart Contracts**, or **GitHub Workflows**
+- 🌍 Always open to collaborating on exciting tech challenges!
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+### 🛠 Tech Stack
+
 <p align="left">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,solidity,nextjs,java,cpp,python,git,github,vscode,firebase" />
 </p>
 
 ---
 
-### 📈 GitHub Stats:
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=07Yatin&show_icons=true&theme=radical" alt="Yatin's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=07Yatin&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=07Yatin&show_icons=true&theme=github_dark" alt="Yatin's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=07Yatin&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07Yatin&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINK/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 🧩 Fun Fact
+
+> I build for **impact**, not just output.  
+> When I’m not coding, I’m either solving **DSA problems** or exploring **new tech frameworks**!
