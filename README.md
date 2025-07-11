@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=07Yatin&show_icons=true&theme=github_dark" alt="Yatin's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=07Yatin&theme=dark" alt="GitHub Streak" />
+<!--   <img src="https://streak-stats.demolab.com/?user=07Yatin&theme=dark" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07Yatin&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
