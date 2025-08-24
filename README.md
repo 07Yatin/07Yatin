@@ -13,7 +13,6 @@
 - 💡 Exploring the intersection of **Web3, AI, and Scalable Web Applications**  
 - 🧠 Constantly learning: **Next.js, Solidity, DevOps, and Clean Architecture**  
 - 👨‍💻 Passionate about **MERN stack, Smart Contracts, and real-time systems**  
-- 🏆 Regional Winner – **SAP Hackfest 2025** | Hackathon & Project Expo Participant  
 - 🌍 Open to collaborating on **exciting tech challenges** and impactful projects  
 
 ---
