@@ -8,9 +8,8 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **DonorShield** – a blockchain-powered donation tracking platform  
+- 🔭 Developed **DonorShield** – a blockchain-powered donation tracking platform  
 - 🧪 Developed **Non-Invasive Anemia Detection** using YOLOv8, ANN & Flask  
-- 💡 Exploring the intersection of **Web3, AI, and Scalable Web Applications**  
 - 🧠 Constantly learning: **Next.js, Solidity, DevOps, and Clean Architecture**  
 - 👨‍💻 Passionate about **MERN stack, Smart Contracts, and real-time systems**  
 - 🌍 Open to collaborating on **exciting tech challenges** and impactful projects  
