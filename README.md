@@ -1,18 +1,19 @@
 <h1 align="center">👋 Hello World, I'm Yatin Bhovi</h1>
 
-<p align="center"><em>Full Stack Developer | Blockchain Explorer | Competitive Programmer</em></p>
+<p align="center"><em>Full Stack Developer| Competitive Programmer</em></p>
+
+<p align="center">🌐 Portfolio → ytn.onrender.com</p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **DonorShield** – a blockchain-based donation tracking platform
-- 💡 Exploring the intersection of **Web3** and **Real-World Applications**
-- 🧠 Constantly learning: **Next.js, Solidity, DevOps, and Clean Architecture**
-- 👨‍💻 Passionate about developing scalable backend systems and intuitive UIs
-- 💬 Ask me about anything related to **MERN Stack**, **Smart Contracts**, or **GitHub Workflows**
-- 🌍 Always open to collaborating on exciting tech challenges!
-
+🔭 Currently building DonorShield – a blockchain-powered donation tracking platform
+🧪 Worked on Non-Invasive Anemia Detection using YOLOv8, ANN & Flask
+💡 Exploring the intersection of Web3, AI, and Scalable Web Applications
+🧠 Constantly learning: Next.js, Solidity, DevOps, and Clean Architecture
+👨‍💻 Passionate about MERN stack, Smart Contracts, and real-time systems
+🌍 Open to collaborating on exciting tech challenges and impactful projects
 ---
 
 ### 🌐 Connect with Me
