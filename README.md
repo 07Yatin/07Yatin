@@ -1,47 +1,51 @@
 <h1 align="center">👋 Hello World, I'm Yatin Bhovi</h1>
 
-<p align="center"><em>Full Stack Developer| Competitive Programmer</em></p>
+<p align="center"><em>Full Stack Developer | Blockchain Explorer | Competitive Programmer</em></p>
 
-<p align="center">🌐 Portfolio → ytn.onrender.com</p>
+<p align="center">🌐 <a href="https://ytn.onrender.com/" target="_blank"><b>Portfolio → ytn.onrender.com</b></a></p>
 
 ---
 
 ### 🚀 About Me
 
-🔭 Currently building DonorShield – a blockchain-powered donation tracking platform
-🧪 Worked on Non-Invasive Anemia Detection using YOLOv8, ANN & Flask
-💡 Exploring the intersection of Web3, AI, and Scalable Web Applications
-🧠 Constantly learning: Next.js, Solidity, DevOps, and Clean Architecture
-👨‍💻 Passionate about MERN stack, Smart Contracts, and real-time systems
-🌍 Open to collaborating on exciting tech challenges and impactful projects
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatin-bhovi-85b63126a/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatinbhovi144@gmail.com)
+- 🔭 Currently building **DonorShield** – a blockchain-powered donation tracking platform  
+- 🧪 Developed **Non-Invasive Anemia Detection** using YOLOv8, ANN & Flask  
+- 💡 Exploring the intersection of **Web3, AI, and Scalable Web Applications**  
+- 🧠 Constantly learning: **Next.js, Solidity, DevOps, and Clean Architecture**  
+- 👨‍💻 Passionate about **MERN stack, Smart Contracts, and real-time systems**  
+- 🏆 Regional Winner – **SAP Hackfest 2025** | Hackathon & Project Expo Participant  
+- 🌍 Open to collaborating on **exciting tech challenges** and impactful projects  
 
 ---
 
-### 🛠 Tech Stack
+### 🌐 Connect with Me  
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ytn.onrender.com/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatin-bhovi-85b63126a/)  
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatinbhovi144@gmail.com)  
+
+---
+
+### 🛠 Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,java,python,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,java,cpp,python,git,vscode,solidity" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=07Yatin&show_icons=true&theme=github_dark" alt="Yatin's GitHub Stats" />
-<!--   <img src="https://streak-stats.demolab.com/?user=07Yatin&theme=dark" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07Yatin&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
 
-### 🧩 Fun Fact
+### 🧩 Fun Fact  
 
 > I build for **impact**, not just output.  
-> When I’m not coding, I’m either solving **DSA problems** or exploring **new tech frameworks**!
+> When I’m not coding, I’m either solving **DSA problems** or exploring **new tech frameworks** 🚀  
+
+
