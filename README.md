@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello World, I'm Yatin Bhovi</h1>
 
-<p align="center"><em>Full Stack Developer | Blockchain Explorer | Competitive Programmer</em></p>
+<p align="center"><em>Full Stack Developer | Competitive Programmer</em></p>
 
-<p align="center">🌐 <a href="https://ytn.onrender.com/" target="_blank"><b>Portfolio → ytn.onrender.com</b></a></p>
+<h2 align="center">🌐 🚀 <a href="https://ytn.onrender.com/" target="_blank"><b>Visit My Portfolio → ytn.onrender.com</b></a></h2>
 
 ---
 
@@ -46,5 +46,4 @@
 
 > I build for **impact**, not just output.  
 > When I’m not coding, I’m either solving **DSA problems** or exploring **new tech frameworks** 🚀  
-
 
