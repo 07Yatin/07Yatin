@@ -3,7 +3,7 @@
 <p align="center"><em>Full Stack Developer | Competitive Programmer</em></p>
 
 <h2 align="center">🌐 🚀 <a href="https://ytn.onrender.com/" target="_blank"><b>Visit My Portfolio → ytn.onrender.com</b></a></h2>
-![Profile-Visitor-Count](https://komarev.com/ghpvc/?username=07Yatin)
+
 ---
 
 ### 🚀 About Me
