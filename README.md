@@ -4,6 +4,8 @@
 
 <h2 align="center">🌐 🚀 <a href="https://ytn.onrender.com/" target="_blank"><b>Visit My Portfolio → ytn.onrender.com</b></a></h2>
 
+![Profile Views](https://komarev.com/ghpvc/?username=07Yatin&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ### 🚀 About Me
